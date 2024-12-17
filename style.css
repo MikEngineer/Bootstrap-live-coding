@@ -1,0 +1,183 @@
+.header-custom {
+    background-image: url(./media/bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.iconaCalendario {
+    color: yellow;
+}
+
+.col-info {
+    height: 70%;
+}
+
+.row-descrizione {
+    min-height: 40vh;
+    font-size: 12px;
+}
+
+.container-descrizione {
+    background-color: rgb(27, 21, 64);
+}
+
+.img-descrizione {
+    scale: 1.5;
+}
+
+.btn-outline-warning {
+    border-radius: 20px;
+    scale: 0.8;
+}
+
+.container-form {
+    background-image: url(./media/bg-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-card {
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+
+.card-form {
+    scale: 1.2;
+    background-color: rgb(27, 21, 64);
+    color: white;
+}
+
+.form-control {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid purple;
+}
+
+#label-policy {
+    font-size: 8px;
+}
+
+#exampleCheck1 {
+    scale: 0.5;
+    position: relative;
+    top: 3px;
+    left: 6px;
+}
+
+#btn-iscriviti-form {
+    width: 100%;
+    border-radius: 30px;
+    font-size: 10px;
+}
+
+#btn-iscriviti-form:hover {
+    background-color: purple;
+    color: yellow;
+}
+
+#icona-calendario {
+    color: white;
+    /* background-color: rgb(255, 193, 7);
+    border-radius: 50px;
+    width: 50%;
+    height: 50%; */
+    scale: 2;
+}
+
+#p-data {
+    margin-bottom: 0px;
+}
+
+#p-ora {
+    margin-top: 0px;
+    font-size: 8px;
+}
+
+#col-calendario-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
+#exampleInputEmail1, #exampleInputPassword1 {
+    background-color: purple;
+    color: rgb(255, 193, 7);
+}
+
+.container-icona-calendario {
+    background-color: rgb(255, 193, 7);
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#col-logo-future {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-aulab {
+    background-color: rgb(20, 9, 37);
+    color: white;
+    min-height: 30vh;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-p-aulab {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+.titolo-p-aulab {
+    font-size: 40px;
+}
+
+.container-speaker {
+    background-image: url(./media/bg-3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#foto-marco {
+    height: 40vh;
+}
+
+#col-testo-marco {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    font-size: 20px;
+}
+
+footer {
+    background-color: rgb(33, 37, 41);
+}
+
+#p-footer {
+    margin-bottom: 0px;
+    color: white;
+    text-wrap: wrap;
+}
