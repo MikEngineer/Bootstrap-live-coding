@@ -181,3 +181,18 @@ footer {
     color: white;
     text-wrap: wrap;
 }
+
+@media screen and (max-width: 770px) {
+    
+    #titolo-header { text-align: center;
+    }
+    
+    .row-descrizione {
+        text-align: center;
+    }
+
+    .col-p-aulab {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+}
