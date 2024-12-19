@@ -43,7 +43,7 @@
 .container-card {
     display: flex;
     justify-content: center;
-    margin-top: 20vh;
+    margin-top: 8vh;
 }
 
 .card-form {
@@ -193,6 +193,6 @@ footer {
 
     .col-p-aulab {
         margin-left: 0px;
-        margin-top: 0px;
+        margin-right: 0px;
     }
 }
